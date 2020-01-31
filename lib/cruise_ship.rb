@@ -22,4 +22,3 @@ passengers.each do |suite, name|
 end
 end
 return select_winner
-end
